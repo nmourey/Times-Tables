@@ -1,7 +1,7 @@
 /* 
- * Programmer : Nathan A. Mourey II <nmoureyii@ne.rr.com>
+ * Programmer : Nathan A. Mourey II <nmoureyii@gmail.com>
  * Program    : Multiplication questions.
- * Date       : November 14th 2011,2012
+ * Date       : November 14th 2011-2017
  * Copyright  : GLPv3
  */
 
