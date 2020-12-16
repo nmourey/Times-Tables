@@ -62,6 +62,6 @@ int main(int argc, char *argv[])
 		}
 		num_questions++;
 	} while (num_questions < passes);
-	printf("\n\t%i out of %i quesetions answered correctly.\n\n", correct, passes);
+	printf("\n\t%i out of %i quesetions correctly answered.\n\n", correct, passes);
 	exit(0);
 }
